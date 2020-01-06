@@ -17,4 +17,7 @@ HackerShell modifies your Termux ,from a simple one to a complete professional o
 2) You can change it in bash.bashrc file.
 
 Video Tutorial:-
-Coming Soon
+
+https://youtu.be/5u1IxjbxEvI
+
+Don't forget to Subscribe my channel
