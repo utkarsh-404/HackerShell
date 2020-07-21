@@ -24,16 +24,7 @@ ls
 cd $HOME
 clear
 
-#its for trial 
-mv $DIR/data.tar.gz $PREFIX/share
-cd $PREFIX/share
-echo
-tar -xhf data.tar.gz
-chmod +x termux-style/theme
-ln -s $PREFIX/share/termux-style/theme $PREFIX/bin/termux-style
-rm $PREFIX/share/data.tar.gz
-termux-reload-settings
-#its for trial 
+
 
 echo "HackerShell has successfully modified your termux |lolcat"
 echo ""
